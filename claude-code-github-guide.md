@@ -9,7 +9,7 @@ A quick-start guide for clients.
 - **Claude Code Desktop App** installed ([download here](https://claude.ai/download))
 - **GitHub account** with access to your repository
 - **Git** installed locally (`git --version` to check)
-- **GitHub CLI (`gh`)** installed
+- **GitHub CLI (`gh`)** — not included with Claude Code, must be installed separately (see below)
 
 ### Install GitHub CLI
 
